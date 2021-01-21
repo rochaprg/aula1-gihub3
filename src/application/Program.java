@@ -6,6 +6,8 @@ public class Program {
 		
 		
 		System.out.println("New Program...");
+		
+		System.out.println("Novo teste do programa... ");
 	}
 
 }
